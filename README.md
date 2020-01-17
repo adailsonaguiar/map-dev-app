@@ -16,6 +16,6 @@ Clone a aplicação através do comando:
 
 > Acesse: https://github.com/adailsonaguiar/map-dev-backend
 
-### Aplicação Mobile
+### Aplicação Web
 
-> Acesse: https://github.com/adailsonaguiar/map-dev-app
+> Acesse: https://github.com/adailsonaguiar/map-dev-web
